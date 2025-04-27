@@ -6,7 +6,7 @@ Full-stack developer
 
 A passionate full-stack developer with experience in front-end development, team collaboration, and fast learning. I thrive in both solo and team environments, always seeking new challenges and opportunities to grow.
 
-* 🖥️  See my portfolio at [My Profile](http://jakkapet.pantook.com/)
+* 🖥️  See my portfolio at [My Profile](http://jakkapet.com/)
 * ✉️  You can contact me at [jakkapet.wk@gmail.com](mailto:jakkapet.wk@gmail.com)
 * 🧠  I'm learning Flutter, Nest.js, C#, Go, Dart, and exploring new technologies.
 
